@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "obase#$DECIMAL"
+echo '%x\n' $DECIMAL
