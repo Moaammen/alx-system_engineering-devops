@@ -1,2 +1,0 @@
-#!/bin/bash
-tr "{a b c n i e f}" "{Z..A}"
